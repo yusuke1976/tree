@@ -1,0 +1,18 @@
+# OSの不要ファイル
+.DS_Store
+Thumbs.db
+
+# IDEの設定ファイル
+.idea/
+.vscode/
+
+# ログファイル
+*.log
+
+# 環境設定
+.env
+
+# ビルド/依存フォルダ
+node_modules/
+vendor/
+dist/
